@@ -167,9 +167,9 @@ const developer = {
 
 | 🎨 Project | 📝 Description | 🔗 Link |
 |-----------|---------------|--------|
-| **Landing Page** | Modern responsive landing with animations | [View](https://github.com/YoAlejoDev) |
-| **Portfolio** | Interactive portfolio website | [View](https://github.com/YoAlejoDev) |
-| **Web Apps** | Collection of frontend applications | [View](https://github.com/YoAlejoDev) |
+| **Landing Page** | Modern responsive landing with animations | [View](https://byttes.com/) |
+| **Portfolio** | Interactive portfolio website | [View](https://github.com/AlThinkGit) |
+| **Web Apps** | Collection of frontend applications | [View](https://byttes.com/#projects) |
 
 </div>
 
@@ -216,7 +216,7 @@ const developer = {
 
 ### ✨ Let's Build Something Amazing Together!
 
-<a href="https://github.com/YoAlejoDev">
+<a href="https://github.com/AlThinkDev">
   <img src="https://img.shields.io/badge/Explore%20My%20Work-Click%20Here-00D9FF?style=for-the-badge&logo=github" />
 </a>
 
