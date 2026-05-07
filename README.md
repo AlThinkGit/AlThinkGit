@@ -1,65 +1,242 @@
-# Alejandro Hurtado Alvarez
+<div align="center">
 
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/YoAlejoDev">Al.think</a></b>
-        </samp>
-</h3>
+# 🚀 Alejandro Hurtado Alvarez
 
-<p align="center"> 
-  <samp>
-    <br>
-    「 I am a full stack web application developer from <b>Colombia</b> 」
-    <br>
-    <br>
-  </samp>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D9FF&center=true&width=500&lines=Hey+there!+I'm+Al.think;Full+Stack+Web+Developer;From+%F0%9F%87%A8%F0%9F%87%B4+Colombia;Frontend+Enthusiast" alt="Typing SVG" />
+
+<br/>
+
+```javascript
+const developer = {
+  name: "Alejandro Hurtado",
+  title: "Full Stack Web Developer",
+  location: "Colombia 🇨🇴",
+  specialization: "Frontend Development",
+  passion: "Creating amazing UIs with smooth animations"
+}
+```
+
+<br/>
+
+### 📊 Quick Stats
+![GitHub followers](https://img.shields.io/badge/dynamic/json?color=blue&label=GitHub%20Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYoAlejoDev&style=flat-square)
+![Years Experience](https://img.shields.io/badge/Experience-5%2B%20years-brightgreen?style=flat-square)
+![Coffee](https://img.shields.io/badge/Coffee-I%20%E2%9C%93%20Work%20For%20It-brown?style=flat-square)
+
+</div>
+
+---
+
+## 🎨 Frontend & Languages
+
+<div align="center">
+
+### Core Languages
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/><br/>
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/><br/>
+      <b>TypeScript</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" alt="HTML5"/><br/>
+      <b>HTML5</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" alt="CSS3"/><br/>
+      <b>CSS3</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/><br/>
+      <b>Python</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" alt="C#"/><br/>
+      <b>C#</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/><br/>
+      <b>C++</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/><br/>
+      <b>MySQL</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git"/><br/>
+      <b>Git</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/><br/>
+      <b>Node.js</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 Frontend Frameworks & Libraries
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" alt="React"/><br/>
+      <b>React</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" alt="Bootstrap"/><br/>
+      <b>Bootstrap</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" alt="Tailwind"/><br/>
+      <b>Tailwind</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" alt="Express"/><br/>
+      <b>Express</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="45" alt="FastAPI"/><br/>
+      <b>FastAPI</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 💻 Development Tools
+
+<div align="center">
+
+### IDEs & Editors
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/><br/>
+      <b>VS Code</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="45" alt="Visual Studio"/><br/>
+      <b>Visual Studio</b>
+    </td>
+  </tr>
+</table>
+
+### Operating Systems
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" alt="Linux"/><br/>
+      <b>Linux</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="45" alt="Debian"/><br/>
+      <b>Debian</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg" width="45" alt="Windows"/><br/>
+      <b>Windows</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="45" alt="macOS"/><br/>
+      <b>macOS</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+| 🎨 Project | 📝 Description | 🔗 Link |
+|-----------|---------------|--------|
+| **Landing Page** | Modern responsive landing with animations | [View](https://github.com/YoAlejoDev) |
+| **Portfolio** | Interactive portfolio website | [View](https://github.com/YoAlejoDev) |
+| **Web Apps** | Collection of frontend applications | [View](https://github.com/YoAlejoDev) |
+
+</div>
+
+---
+
+## 🎓 Current Focus
+
+🔍 Specializing in:
+- ⚡ **High-Performance Frontend Development**
+- 🎨 **UI/UX Design & Animation**
+- 🚀 **React & Modern JavaScript Frameworks**
+- 🎭 **CSS Animations & Interactive Experiences**
+- 📱 **Responsive & Mobile-First Design**
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandrohurtadoalv@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoAlejoDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-hurtado)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YoAlejoDev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yoalodev.github.io)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoAlejoDev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoAlejoDev&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Let's Build Something Amazing Together!
+
+<a href="https://github.com/YoAlejoDev">
+  <img src="https://img.shields.io/badge/Explore%20My%20Work-Click%20Here-00D9FF?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+<p>
+  <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+    <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+  </a>
+  <br />
+  <sub>Copyright © 2026 Alejandro Hurtado Alvarez</sub><br/>
+  <sub>Licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></sub>
 </p>
 
-## Technologies 💻
+<p>
+  <b>Email:</b> alejandrohurtadoalv@gmail.com | 
+  <b>Location:</b> Colombia 🇨🇴
+</p>
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
 
-## IDEs/Editors ⚒️
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00D9FF&center=true&width=600&lines=Happy+Coding!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Let's+create+something+awesome+together!" alt="Typing SVG" />
 
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
-
-## Frameworks, Platforms and Libraies 📚
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-## Operative Systems 🐧
-
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-<footer aling="center">
-        <p style="float:left; width: 20%;">
-        Copyright © Alejandro Hurtado Alvarez, 2023
-        </p>
-        <p style="float:left; width: 60%; text-align:center;">
-                <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
-        </p>
-        <p style="float:left; width: 20%;">
-        Email: alejandrohurtadoalv@gmail.com
-        </p>
-</footer>
+</div>
